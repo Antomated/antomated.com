@@ -1,6 +1,6 @@
 # Personal website
 
-[antomated.github.io](https://antomated.github.io)
+[antomated.com](https://antomated.com)
 
 # Info
 
